@@ -41,14 +41,14 @@ web site</a>:
 ## Making Plots
 Four plots were constructed for this project, named Plot1, Plot2, Plot3 and Plot4.  Each plot has a corresponding R script file, and a PNG image of the plot.
 
-### Plot 1
+### <a href="https://github.com/collinkeen/ExData_Plotting1/blob/master/plot1.png">Plot 1</a>
 This bar graph shows active power usage over the period of the two days we evaluated (2/1/2007 and 2/2/2007).
 
-### Plot 2
+### <a href="https://github.com/collinkeen/ExData_Plotting1/blob/master/plot2.png">Plot 2</a>
 This line chart shows global active power in kilowatts during the two day period.
 
-### Plot 3
+### <a href="https://github.com/collinkeen/ExData_Plotting1/blob/master/plot3.png">Plot 3</a>
 This line chart shows energy sub-metering for three different metering areas, also over the two day period.
 
-### Plot 4
+### <a href="https://github.com/collinkeen/ExData_Plotting1/blob/master/plot4.png">Plot 4</a>
 This graph is a combination of 4 graphs; first is the chart from plot1, next is voltage shown over the two day period.  On the second row is the chart from plot 3 and finally a chart showing global reactive power usage in the same two day period.
